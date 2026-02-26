@@ -15,3 +15,4 @@ This is a very new project! BetterRecs will almost certainly go through a lot of
 Web scraping architecture (using scrapy) is currently being built.
 ### - Algorithm Development (not started)
 ### - Web Application (not started)
+This is the tricky part because optimally I would like AOTY to not get mad and IP ban me for running a website that scrapes their platform constantly. I'm still somewhat undecided as to how and if I want to go about doing this.
